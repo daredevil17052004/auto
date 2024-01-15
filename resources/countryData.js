@@ -1,4 +1,4 @@
-[
+export const country=[
   {"name": "Albania", "code": "AL"},
   {"name": "Åland Islands", "code": "AX"},
   {"name": "Algeria", "code": "DZ"},
